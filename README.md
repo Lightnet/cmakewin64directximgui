@@ -13,10 +13,10 @@
   Directx 9-12 work on imgui build.
 
 # Directx checks:
- * Win 32 Directx 9 > pass
- * Win 32 Directx 10 > pass
- * Win 32 Directx 11 > pass
- * Win 32 Directx 12 > pass
+ * Win 64 Directx 9 > pass
+ * Win 64 Directx 10 > pass
+ * Win 64 Directx 11 > pass
+ * Win 64 Directx 12 > pass
 
 # Build:
 
